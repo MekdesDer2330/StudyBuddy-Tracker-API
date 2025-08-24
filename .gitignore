@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django / DB
+db.sqlite3
+*.log
+
+# Environment
+venv/
+.env
+
+# Static / Media
+/static/
+/media/
+
+# VSCode
+.vscode/
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Django / DB
+db.sqlite3
+*.log
+
+# Environment
+venv/
+.env
+
+# Static / Media
+/static/
+/media/
+
+# VSCode
+.vscode/
